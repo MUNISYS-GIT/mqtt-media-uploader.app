@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.015355dd.css",
+    "main.js": "./static/js/main.e1b5b4a4.js",
+    "static/js/453.ba7deb2c.chunk.js": "./static/js/453.ba7deb2c.chunk.js",
+    "static/media/Logo_Munisys.png": "./static/media/Logo_Munisys.c302a7d0f5b706ccc40d.png",
+    "index.html": "./index.html",
+    "main.015355dd.css.map": "./static/css/main.015355dd.css.map",
+    "main.e1b5b4a4.js.map": "./static/js/main.e1b5b4a4.js.map",
+    "453.ba7deb2c.chunk.js.map": "./static/js/453.ba7deb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.015355dd.css",
+    "static/js/main.e1b5b4a4.js"
+  ]
+}
