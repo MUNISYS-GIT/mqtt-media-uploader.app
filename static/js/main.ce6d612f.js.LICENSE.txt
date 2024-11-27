@@ -58,6 +58,15 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+/**
+ * uuidv7: A JavaScript implementation of UUID version 7
+ *
+ * Copyright 2021-2024 LiosK
+ *
+ * @license Apache-2.0
+ * @packageDocumentation
+ */
+
 /** @preserve
    * Counter block mode compatible with  Dr Brian Gladman fileenc.c
    * derived from CryptoJS.mode.CTR
