@@ -59,12 +59,13 @@
  */
 
 /**
- * uuidv7: A JavaScript implementation of UUID version 7
+ * @license React
+ * use-sync-external-store-shim.production.min.js
  *
- * Copyright 2021-2024 LiosK
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
- * @license Apache-2.0
- * @packageDocumentation
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
  */
 
 /** @preserve
